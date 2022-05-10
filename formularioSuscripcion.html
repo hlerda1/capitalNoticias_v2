@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Copatible" content="IE=edge">
+        <title>La Capital - Formulario de Suscripción</title>
+    </head>
+    <body>
+        <header>
+            <div>
+                <a href="./capitalNoticias.html">
+                    <img src="./Imagenes/Logo.JPG">
+                </a>
+            </div>               
+        </header>
+        <main>
+            <h2>Registrarme</h2>
+            <b><p>Datos Obligatorios</p></b>
+            <form action="">
+                <div>
+                    <!-- <label for="Nombre">Nombre</label> -->
+                    <input type="text" name="Nombre" id="Nombre" minlength="2" maxlength="15" pattern="[a-zA-Z]+" placeholder="Nombre" required>
+                </div>
+                <div>
+                    <!-- <label for="Apellido">Apellido</label> -->
+                    <input type="text" name="Apellido" id="Apellido" minlength="2" maxlength="15" pattern="[a-zA-Z]+" placeholder="Apellido" required>
+                </div>
+                <div>
+                    <!-- <label for="Email">Email</label> -->
+                    <input type="email" name="Email" id="Email" placeholder="Email" required>
+                </div>
+                <div>
+                    <!-- <label for="Contrasena">Contraseña</label> -->
+                    <input type="password" name="Contrasena" id="Contrasena" placeholder="Contraseña" required>
+                </div>
+                <div>
+                    <!-- <label for="Contrasena">Reescribir Contraseña</label> -->
+                    <input type="password" name="Contrasena" id="Contrasena" placeholder="Reescribir Contraseña" required>
+                </div>
+                <div></div>
+                    <input type="submit" value="Registrarse" >
+                    <input type="reset" value="Reset">
+                </div>
+            </form>
+        </main>
+    </body>
+</html>
