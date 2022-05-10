@@ -1,13 +1,17 @@
-La Capital
+La Capital - Diario Digital - 
 
-Esta página contiene un artículo sobre los palnes del gobierno para la economía nacional y los pronosticos esperados.
+Esta página contiene articulos de noticias obtenidos del sitio La Capital.
 
-Se obtuvieron las fuentes de este artículo del siguiente sitio: https://www.lacapital.com.ar/economia/el-gobierno-va-a-dejar-un-gran-lio-n10013315.html
+Se obtuvieron las fuentes de este artículo de los siguientes sitios: 
+https://www.lacapital.com.ar/economia/el-gobierno-va-a-dejar-un-gran-lio-n10013315.html
+https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-primera-semana-habil-mayo-arranca-un-dia-ventoso-humedo-y-frio-n10014747.html
 
-26/04/2022
-Se agregó formulario de registración
-Se agregó pagina en construcción
+Noticia1.html contiene practica de HTML
 
-03/05/2022
-Se agrego la pagina de noticia2.html y style.css
-Se agregaron imagenes para noticia2.html
+Noticia2.html contiene practica de HTML, CSS y MEDIA QUERIES
+
+10 de mayo de 2022
+Codigo inicial de la problematica de CSS y Media Queries
+
+10 de mayo 2022 - 2nd commit
+Media Queries introducidas en el diseño
